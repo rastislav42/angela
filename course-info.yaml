@@ -31,8 +31,5 @@ additional_files:
   - name: .idea/inspectionProfiles/profiles_settings.xml
   - name: Day 3/__init__.py
 mode: Study
-vendor:
-  name: App Brewery
-  url: https://plugins.jetbrains.com/vendor/angela-yu
 feedback_link: https://plugins.jetbrains.com/plugin/25212-100-days-of-code--the-complete-python-pro-bootcamp/reviews
 yaml_version: 6
